@@ -40,6 +40,11 @@
 	sideways. 
 </p>
 
+<h3>insert.php</h3>
+<p>
+	Allows for an admin user to be added, password is encrypted on the database.
+</p>
+
 <h3>Further Development</h3>
 <p>Flagged dictionary is present but can't be viewed on admin page, restricted words include 'hate', 'idiot'</p>
 
